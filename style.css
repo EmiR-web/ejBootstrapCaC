@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 10px;
+}
+.card{
+    padding: 8px !important;
+}
+.card-img-top {
+    max-height: 230px;
+}
